@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sid.ebankingbackend.EbankingBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.522 s - in org.sid.ebankingbackend.EbankingBackendApplicationTests
